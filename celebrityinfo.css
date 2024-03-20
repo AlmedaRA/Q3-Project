@@ -1,0 +1,13 @@
+.img{
+		display: block margin rigth;
+}
+
+body{
+	background-color: grey;
+}
+
+h1 {
+	font-family: "Black Ops One", system-ui;
+  	font-weight: 400;
+  	font-style: normal;
+}
